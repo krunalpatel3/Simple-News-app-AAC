@@ -2,7 +2,9 @@
 
 News app Udacity Android Basic Nanodegree Project.That show's News from [Theguardian News api](https://open-platform.theguardian.com/documentation/).
 
-Ite also show's that How to use Search View in Android.
+It also show's that How to use Search View in Android.
+
+Check this Link for Udacity Android Basic Nanodegree Projects [Click Here](https://github.com/akueisara/android-basics-nanodegree-by-google).
 
 ## Screenshots:-
 
